@@ -64,11 +64,9 @@ If you have tips, resources, or collaboration ideas—feel free to reach out!
 ## 📬 Connect with Me
 
 <p>
-  <!-- Add your social links below! -->
-  <a href="YOUR_TWITTER_LINK_HERE"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="YOUR_INSTAGRAM_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Add more socials as needed! -->
+  <a href="https://x.com/Kinsey004?t=xSxOBweDHOf3mWWiPhimTA&s=09"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/_e.sthe.r?igsh=MWtpNml4cmZyc2hxZg=="><img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/esther-muthoni-a8582b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
