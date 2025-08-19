@@ -56,7 +56,7 @@ If you have tips, resources, or collaboration ideas—feel free to reach out!
 
 ## 🎧 Interests
 
-- 📰 Reading tech news and articles
+- 📰 Writing
 - 🎵 Listening to music
 
 ---
