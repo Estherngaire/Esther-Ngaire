@@ -10,8 +10,8 @@
 ## 🌱 About Me
 
 I'm a passionate beginner programmer excited to explore the world of technology!  
-Currently learning the basics and stepping into both **Front-End** and **Back-End** development.  
-I love reading tech news articles and enjoy listening to music while coding.
+Currently learning the basics and stepping into both **Front-End** and **Back-End** development.   
+I'm looking forward to gaining practical experience with modern web technologies and building full stack web applications.
 
 ---
 
